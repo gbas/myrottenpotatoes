@@ -58,4 +58,6 @@ form label {
   line-height: 25px;
   font-weight: bold;
   color: maroon;
+}table#movies th.hilite {
+    background-color: yellow;
 }
